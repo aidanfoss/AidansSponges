@@ -1,1 +1,1 @@
-tellraw @a {"text": "1% chance added", "color": "#FFFFFF"}
+tellraw @a {"text": "0.5% chance added", "color": "#FFFFFF"}
