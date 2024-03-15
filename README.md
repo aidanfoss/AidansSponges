@@ -1,4 +1,4 @@
-adds a 1% + 1% chance to drop sponges to guardians.
+adds a chance to drop sponges to guardians.
 make sure this is placed AFTER the more mob heads datapack
 
 
